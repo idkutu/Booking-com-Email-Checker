@@ -10,8 +10,8 @@ GUNGUN='\033[42m'
 
 
 #! configuration
-YOURWALLET='Z68Y323659' #! Insert your wallet here
-YOURTOKEN='5IUA-1337' #! Insert your token here
+YOURWALLET='inserthere' #! Insert your wallet here
+YOURTOKEN='inserthere' #! Insert your token here
 #! End configuration
 
 header(){
